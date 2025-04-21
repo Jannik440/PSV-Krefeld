@@ -4,6 +4,7 @@
     --accent-color: #026315;
     --text-color: #333;
     --light-color: #fff;
+    scroll-behavior: smooth;
 }
 
 * {
